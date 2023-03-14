@@ -1,0 +1,31 @@
+body{
+    background-image: url("https://i.pinimg.com/736x/77/42/0d/77420df3f9e33db5b79ee25455d3340e.jpg");
+    color: #000;
+}
+
+h2{
+    color:#fff;
+    text-align: center;
+    justify-content:center;
+}
+
+.card{
+    justify-content:center;
+    display: inline;
+    margin-top:500px;
+    margin-bottom: 500px;
+
+  }
+
+.card-body{
+    background-color: #fff;
+    display: flex;
+    border-radius: 5px;
+    margin-right: 8px;
+    margin:8px;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
